@@ -135,9 +135,10 @@
                 	<div class="form-group">
                     	<label>Nilai</label>
                     	<select name="nilai" id="nilai" class="form-control">
-                        	<option value="Baik">Baik</option>
-                        	<option value="Cukup">Cukup</option>
-                        	<option value="Perlu dilatih">Perlu dilatih</option>
+							<option value="BB">BB</option>
+                        	<option value="MB">MB</option>
+                        	<option value="BSH">BSH</option>
+							<option value="BSB">BSB</option>
                         </select>
                     </div>
                     <div class="form-group">

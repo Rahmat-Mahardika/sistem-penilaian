@@ -65,12 +65,12 @@
 						<li class="dropdown <?php if($this->uri->segment(1) == "anilaiagama" || $this->uri->segment(1) == "anilaibahasa" || $this->uri->segment(1) == "anilaifisik" || $this->uri->segment(1) == "anilaikonsep" || $this->uri->segment(1) == "anilaipengetahuan" || $this->uri->segment(1) == "anilaisosial") echo "active"; ?>" >
                           <a href="<?php echo base_url(); ?>#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Penilaian <span class="caret"></span></a>
                           <ul class="dropdown-menu" role="menu">
-                            <li><a href="<?php echo base_url(); ?>anilaiagama">Nilai Agama</a></li>
+                            <li><a href="<?php echo base_url(); ?>anilaiagama">Nilai NAM</a></li>
                             <li><a href="<?php echo base_url(); ?>anilaibahasa">Nilai Bahasa</a></li>
-                            <li><a href="<?php echo base_url(); ?>anilaifisik">Nilai Fisik</a></li>
-                            <li><a href="<?php echo base_url(); ?>anilaikonsep">Nilai Konsep</a></li>
-                            <li><a href="<?php echo base_url(); ?>anilaipengetahuan">Nilai Pengetahuan</a></li>
-                            <li><a href="<?php echo base_url(); ?>anilaisosial">Nilai Sosial</a></li>
+                            <li><a href="<?php echo base_url(); ?>anilaifisik">Nilai Kognitif</a></li>
+                            <li><a href="<?php echo base_url(); ?>anilaikonsep">Sosial Emosional</a></li>
+                            <li><a href="<?php echo base_url(); ?>anilaipengetahuan">Seni</a></li>
+                            <li><a href="<?php echo base_url(); ?>anilaisosial">FM</a></li>
                           </ul>
                         </li>
 						<li class="dropdown <?php if($this->uri->segment(1) == "akategori" || $this->uri->segment(1) == "apenilaian") echo "active"; ?>" >
