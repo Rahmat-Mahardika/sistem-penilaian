@@ -45,7 +45,7 @@
                 dataSource : {
                         'chart' : {
                             'caption' : 'Persentase Nilai',
-                            'subCaption' : 'Berdasarkan Nilai Agama',	
+                            'subCaption' : 'Berdasarkan Nilai NAM',	
                             'xAxisName'	: 'Nilai',
                             'yAxisName' : 'Jumlah',
                             'theme' : 'zune'
@@ -80,7 +80,7 @@
                 dataSource : {
                         'chart' : {
                             'caption' : 'Persentase Nilai',
-                            'subCaption' : 'Berdasarkan Nilai Fisik Motorik',	
+                            'subCaption' : 'Berdasarkan Nilai Koginitif',	
                             'xAxisName'	: 'Nilai',
                             'yAxisName' : 'Jumlah',
                             'theme' : 'zune'
@@ -115,7 +115,7 @@
                 dataSource : {
                         'chart' : {
                             'caption' : 'Persentase Nilai',
-                            'subCaption' : 'Berdasarkan Nilai Konsep Bentuk dan Bentuk',	
+                            'subCaption' : 'Berdasarkan Nilai Sosial Emosional',	
                             'xAxisName'	: 'Nilai',
                             'yAxisName' : 'Jumlah',
                             'theme' : 'zune'
@@ -150,7 +150,7 @@
                 dataSource : {
                         'chart' : {
                             'caption' : 'Persentase Nilai',
-                            'subCaption' : 'Berdasarkan Nilai Pengetahuan Umum',	
+                            'subCaption' : 'Berdasarkan Nilai Seni',	
                             'xAxisName'	: 'Nilai',
                             'yAxisName' : 'Jumlah',
                             'theme' : 'zune'
@@ -220,7 +220,7 @@
                 dataSource : {
                         'chart' : {
                             'caption' : 'Persentase Nilai',
-                            'subCaption' : 'Berdasarkan Nilai Sosial Emosional',	
+                            'subCaption' : 'Berdasarkan FM',	
                             'xAxisName'	: 'Nilai',
                             'yAxisName' : 'Jumlah',
                             'theme' : 'zune'
@@ -294,7 +294,7 @@
 					<div class="col-md-8">
 	                    <div class="panel panel-info">    	
                             <div class="panel-heading text-center">
-                                <h4>Daftar Nilai Agama dan Moral</h4>
+                                <h4>Daftar Nilai NAM</h4>
                             </div>
                             <table class="table table-hover table-striped table-condensed" id="table">
                                 <thead>
@@ -350,7 +350,7 @@
 			<div class="col-md-8">
 	          	 <div class="panel panel-info">    	
                      <div class="panel-heading text-center">
-						<h4>Daftar Nilai Fisik Motorik</h4>
+						<h4>Daftar Nilai Kognitif</h4>
 					</div>
 					<table class="table table-hover table-striped table-condensed" id="table">
 						<thead>
@@ -401,7 +401,7 @@
 			<div class="col-md-8">
 	            <div class="panel panel-info">                           
                 	 <div class="panel-heading text-center">
-						<h4>Daftar Nilai Konsep Bilangan dan Bentuk</h4>
+						<h4>Daftar Nilai Sosial Emosional</h4>
 					</div>
 					<table class="table table-hover table-striped table-condensed" id="table">
 						<thead>
@@ -452,7 +452,7 @@
 			<div class="col-md-8">
 	             <div class="panel panel-info">    	
                       <div class="panel-heading text-center">
-						<h4>Daftar Nilai Pengetahuan Umum</h4>
+						<h4>Daftar Nilai Seni</h4>
 					</div>
 					<table class="table table-hover table-striped table-condensed" id="table">
 						<thead>
@@ -554,7 +554,7 @@
 			<div class="col-md-8">
 	        	<div class="panel panel-info">    	
                 	<div class="panel-heading text-center">
-						<h4>Daftar Nilai Sosial Emosional</h4>
+						<h4>Daftar Nilai FM</h4>
 					</div>
 					<table class="table table-hover table-striped table-condensed" id="table">
 						<thead>
