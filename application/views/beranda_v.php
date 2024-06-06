@@ -1,21 +1,43 @@
 <?php
 	$this->load->view("header_v.php");
 ?>
-    <!-- Header -->
-    <header>
-        <div class="container">
-            <div class="row" style="margin-top:-30px">
-                <div class="col-lg-12">
-                    <img class="img-responsive" src="<?php echo base_url();?>assets/img/logo.png" width="200" alt="">
-                    <div class="intro-text">
-                        <span class="name"><small>Penilaian PAUD KOBER BANI RUQOYAH</small></span>
-                        <hr class="star-light">
-                        <span class="skills">Sehat - Cerdas - Ceria</span>
-                    </div>
+
+<style>
+header {
+    position: relative;
+    background: url('https://i.ibb.co/C7ZBrry/image.png') no-repeat center center; /* Background image */
+    background-size: cover; /* Make sure the background image covers the entire hero section */
+    z-index: 1;
+}
+
+header::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: black; /* Overlay color */
+    opacity: 0.5; /* Set opacity to 50% */
+    z-index: -1; /* Ensure it appears behind the content */
+}
+</style>
+
+<!-- Header -->
+<header>
+    <div class="container">
+        <div class="row" style="margin-top:-30px">
+            <div class="col-lg-12">
+                <img class="img-responsive" src="<?php echo base_url();?>assets/img/logo.png" width="200" alt="">
+                <div class="intro-text">
+                    <span class="name"><small>Penilaian PAUD KOBER BANI RUQOYAH</small></span>
+                    <hr class="star-light">
+                    <span class="skills">Sehat - Cerdas - Ceria</span>
                 </div>
             </div>
         </div>
-    </header>
+    </div>
+</header>
 
     <!-- Portfolio Grid Section -->
     <section id="portfolio">
