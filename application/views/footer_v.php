@@ -11,7 +11,7 @@
                                 <strong>
                                     <i class="glyphicon glyphicon-map-marker"></i>
                                 </strong>
-                                Puspanegara, Citeureup, Kabupaten Bogor - Indonesia
+                                Sukamulya, RT 05 RW 01, RT / RW 5 / 1, Sukamulya, Kec. Bungursari, Kota Tasikmalaya, Prov. Jawa Barat
                             	</small>
                             </p>
                             <p>
@@ -19,7 +19,7 @@
                                 <strong>
                                     <i class="glyphicon glyphicon-phone-alt"></i>
                                 </strong>
-                                +62 251 8329101 
+                                +62 123 4567890 
                                 </small>
                             </p>
                         </address>
@@ -52,7 +52,7 @@
             <div class="container" >
                 <div class="row">
                     <div class="col-lg-12">
-                        Copyright &copy; PAUD Flamboyan 1. 2014
+                        Copyright &copy; PAUD KOBER BANI RUQOYAH. 2024
                     </div>
                 </div>
             </div>

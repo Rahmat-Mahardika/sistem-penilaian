@@ -41,7 +41,7 @@ class Apesan extends CI_Controller {
 		{
 			if($this->uri->segment(3) == "excel"){
 				header('Content-Type: application/ms-excel'); // msword   atau  yms-excel
-				header('Content-Disposition: attachment; filename="Daftar Pesan di PAUD Flamboyan 1.xls"');
+				header('Content-Disposition: attachment; filename="Daftar Pesan di PAUD KOBER BANI RUQOYAH.xls"');
 				
 				$this->load->view('apesan_export_v');
 			}

@@ -8,7 +8,7 @@
                 <div class="col-lg-12">
                     <img class="img-responsive" src="<?php echo base_url();?>assets/img/logo.png" width="200" alt="">
                     <div class="intro-text">
-                        <span class="name"><small>Penilaian PAUD Flamboyan 1</small></span>
+                        <span class="name"><small>Penilaian PAUD KOBER BANI RUQOYAH</small></span>
                         <hr class="star-light">
                         <span class="skills">Sehat - Cerdas - Ceria</span>
                     </div>
@@ -180,14 +180,14 @@
             </div>
             <div class="row">
                 <div class="col-md-7">
-                      	<h3>Kunjungi PAUD Flamboyan 1</h3>
+                      	<h3>Kunjungi PAUD KOBER BANI RUQOYAH</h3>
                         <p><small><span class="glyphicon glyphicon-map-marker"></span> &nbsp; <b>Alamat</b> </small></p>
                         <p><small> &nbsp;  &nbsp;  &nbsp; &nbsp;Kp. Kamurang RT.04/03</small></p>
                         <p><small> &nbsp;  &nbsp;  &nbsp; &nbsp;Kelurahan Puspanegara</small></p>
                         <p><small> &nbsp;  &nbsp;  &nbsp; &nbsp;Kecamatan Citeureup</small></p>
                         <p><small> &nbsp;  &nbsp;  &nbsp; &nbsp;Kabupaten Bogor - Jawa Barat, Indonesia</small></p>                        
-                        <p><small><span class="glyphicon glyphicon-earphone"></span> &nbsp; <b>Telepon</b> +62 251 8329101</small></p>
-                        <p><small><span class="glyphicon glyphicon-envelope"></span> &nbsp; <b>Email</b> admin@paudflamboyan1.com</small></p>
+                        <p><small><span class="glyphicon glyphicon-earphone"></span> &nbsp; <b>Telepon</b> +62 123 4567890</small></p>
+                        <p><small><span class="glyphicon glyphicon-envelope"></span> &nbsp; <b>Email</b> admin@koberbaniruqoyah.com</small></p>
                 </div>
                 <div class="col-md-5">
                 	<p>&nbsp;</p>                    
