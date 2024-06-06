@@ -11,7 +11,7 @@
                                 <strong>
                                     <i class="glyphicon glyphicon-map-marker"></i>
                                 </strong>
-                                Sukamulya, RT 05 RW 01, RT / RW 5 / 1, Sukamulya, Kec. Bungursari, Kota Tasikmalaya, Prov. Jawa Barat
+                                Sukamulya, RT / RW 5 / 1, Sukamulya, Kec. Bungursari, Kota Tasikmalaya, Prov. Jawa Barat
                             	</small>
                             </p>
                             <p>
@@ -19,7 +19,7 @@
                                 <strong>
                                     <i class="glyphicon glyphicon-phone-alt"></i>
                                 </strong>
-                                +62 123 4567890 
+                                +62 251 8329101 
                                 </small>
                             </p>
                         </address>

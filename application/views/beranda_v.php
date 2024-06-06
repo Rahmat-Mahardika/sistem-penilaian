@@ -204,12 +204,12 @@ header::before {
                 <div class="col-md-7">
                       	<h3>Kunjungi PAUD KOBER BANI RUQOYAH</h3>
                         <p><small><span class="glyphicon glyphicon-map-marker"></span> &nbsp; <b>Alamat</b> </small></p>
-                        <p><small> &nbsp;  &nbsp;  &nbsp; &nbsp;Kp. Kamurang RT.04/03</small></p>
-                        <p><small> &nbsp;  &nbsp;  &nbsp; &nbsp;Kelurahan Puspanegara</small></p>
-                        <p><small> &nbsp;  &nbsp;  &nbsp; &nbsp;Kecamatan Citeureup</small></p>
-                        <p><small> &nbsp;  &nbsp;  &nbsp; &nbsp;Kabupaten Bogor - Jawa Barat, Indonesia</small></p>                        
-                        <p><small><span class="glyphicon glyphicon-earphone"></span> &nbsp; <b>Telepon</b> +62 123 4567890</small></p>
-                        <p><small><span class="glyphicon glyphicon-envelope"></span> &nbsp; <b>Email</b> admin@koberbaniruqoyah.com</small></p>
+                        <p><small> &nbsp;  &nbsp;  &nbsp; &nbsp;Sukamulya, RT 05 RW 01</small></p>
+                        <p><small> &nbsp;  &nbsp;  &nbsp; &nbsp;Kelurahan Sukamulya</small></p>
+                        <p><small> &nbsp;  &nbsp;  &nbsp; &nbsp;Kecamatan Bungursari</small></p>
+                        <p><small> &nbsp;  &nbsp;  &nbsp; &nbsp;Kota Tasikmalaya - Jawa Barat, Indonesia</small></p>                        
+                        <p><small><span class="glyphicon glyphicon-earphone"></span> &nbsp; <b>Telepon</b> +62 251 8329101</small></p>
+                        <p><small><span class="glyphicon glyphicon-envelope"></span> &nbsp; <b>Email</b> admin@paudbaniruqoyah.com</small></p>
                 </div>
                 <div class="col-md-5">
                 	<p>&nbsp;</p>                    
