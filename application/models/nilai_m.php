@@ -45,7 +45,7 @@
 		
 		public function viewnilaikonsep($noinduk)
 		{
-			$sql = "SELECT * FROM (tbl_nilaifisik as a INNER JOIN tbl_penilaian as p ON a.idpenilaian = p.idpenilaian) INNER JOIN tbl_kategorinilai as k ON p.idkategorinilai= k.idkategorinilai WHERE a.noinduk=".$noinduk;
+			$sql = "SELECT * FROM (tbl_nilaikonsep as a INNER JOIN tbl_penilaian as p ON a.idpenilaian = p.idpenilaian) INNER JOIN tbl_kategorinilai as k ON p.idkategorinilai= k.idkategorinilai WHERE a.noinduk=".$noinduk;
 			
 			return $this->db->query($sql);
 		}
