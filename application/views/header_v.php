@@ -13,7 +13,7 @@
 
     <link rel="icon" href="<?php echo base_url(); ?>assets/img/favicon.png">
     <!-- Bootstrap Core CSS - Uses Bootswatch Flatly Theme: http://bootswatch.com/flatly/ -->
-    <link href="<?php echo base_url();?>assets/css/bootstrap.min.css" rel="stylesheet">
+    <link href="<?php echo base_url();?>assets/css/bootstrap.css" rel="stylesheet">
 
     <!-- Custom CSS -->
     <link href="<?php echo base_url();?>assets/css/paud.css" rel="stylesheet">

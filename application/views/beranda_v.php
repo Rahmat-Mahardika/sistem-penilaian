@@ -5,7 +5,7 @@
 <style>
 header {
     position: relative;
-    background: url('https://i.ibb.co/C7ZBrry/image.png') no-repeat center center; /* Background image */
+    background: url('https://www.rzfun.com/wp-content/uploads/materials/image/wm/gif/gif-kids%20cartoon%20looping%20background-s0220001/kids-cartoon-looping-background-0012.png') no-repeat center center; /* Background image */
     background-size: cover; /* Make sure the background image covers the entire hero section */
     z-index: 1;
 }
