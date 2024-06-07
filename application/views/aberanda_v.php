@@ -125,16 +125,17 @@ $this->load->view("aheader_v");
     <div class="row justify-content-center">
         <div class="col-12">
             <div class="button-wrapper">
-                <a href="<?php echo base_url(); ?>admin" class="thumbnail">
-                    <img src="<?php echo base_url(); ?>assets/img/user-icon.png" alt="Admin">
-                    <div>Admin</div>
-                </a>
                 <a href="<?php echo base_url(); ?>aanakdidik" class="thumbnail">
-                    <img src="<?php echo base_url(); ?>assets/img/member-icon.png" alt="Anak Didik">
+                    <img src="<?php echo base_url(); ?>assets/img/siswa.jpg" alt="Anak Didik">
                     <div>Anak Didik</div>
                 </a>
+                <a href="<?php echo base_url(); ?>admin" class="thumbnail">
+                    <img src="<?php echo base_url(); ?>assets/img/admin.jpg" alt="Admin">
+                    <div>Admin</div>
+                </a>
+
                 <a href="<?php echo base_url(); ?>apesan" class="thumbnail">
-                    <img src="<?php echo base_url(); ?>assets/img/message.png" alt="Pesan">
+                    <img src="<?php echo base_url(); ?>assets/img/mail.jpg" alt="Pesan">
                     <div>Pesan
                         <?php
                         $query = $this->apesan_m->jumlahpesanbaru();
