@@ -30,7 +30,7 @@ header::before {
             <div class="col-lg-12">
                 <img class="img-responsive" src="<?php echo base_url();?>assets/img/logo.png" width="200" alt="">
                 <div class="intro-text">
-                    <span class="name"><small>Penilaian PAUD KOBER BANI RUQOYAH</small></span>
+                    <span class="name"><small>Penilaian PAUD CIPTOWATI</small></span>
                     <hr class="star-light">
                     <span class="skills">Sehat - Cerdas - Ceria</span>
                 </div>
@@ -202,14 +202,14 @@ header::before {
             </div>
             <div class="row">
                 <div class="col-md-7">
-                      	<h3>Kunjungi PAUD KOBER BANI RUQOYAH</h3>
+                      	<h3>Kunjungi PAUD CIPTOWATI</h3>
                         <p><small><span class="glyphicon glyphicon-map-marker"></span> &nbsp; <b>Alamat</b> </small></p>
-                        <p><small> &nbsp;  &nbsp;  &nbsp; &nbsp;Sukamulya, RT 05 RW 01</small></p>
-                        <p><small> &nbsp;  &nbsp;  &nbsp; &nbsp;Kelurahan Sukamulya</small></p>
-                        <p><small> &nbsp;  &nbsp;  &nbsp; &nbsp;Kecamatan Bungursari</small></p>
-                        <p><small> &nbsp;  &nbsp;  &nbsp; &nbsp;Kota Tasikmalaya - Jawa Barat, Indonesia</small></p>                        
+                        <p><small> &nbsp;  &nbsp;  &nbsp; &nbsp;Lingk haurmukti RT 04 RW 02</small></p>
+                        <p><small> &nbsp;  &nbsp;  &nbsp; &nbsp;Kelurahan Purwaharja</small></p>
+                        <p><small> &nbsp;  &nbsp;  &nbsp; &nbsp;Kecamatan Purwaharja</small></p>
+                        <p><small> &nbsp;  &nbsp;  &nbsp; &nbsp;Kota Banjar - Jawa Barat, Indonesia</small></p>                        
                         <p><small><span class="glyphicon glyphicon-earphone"></span> &nbsp; <b>Telepon</b> +62 251 8329101</small></p>
-                        <p><small><span class="glyphicon glyphicon-envelope"></span> &nbsp; <b>Email</b> admin@paudbaniruqoyah.com</small></p>
+                        <p><small><span class="glyphicon glyphicon-envelope"></span> &nbsp; <b>Email</b> admin@paudciptowati.com</small></p>
                 </div>
                 <div class="col-md-5">
                 	<p>&nbsp;</p>                    

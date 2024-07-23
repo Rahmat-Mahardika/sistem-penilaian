@@ -11,7 +11,7 @@
                                 <strong>
                                     <i class="glyphicon glyphicon-map-marker"></i>
                                 </strong>
-                                Sukamulya, RT / RW 5 / 1, Sukamulya, Kec. Bungursari, Kota Tasikmalaya, Prov. Jawa Barat
+                                Lingk haurmukti, RT 04 RW 02, Kelurahan Purwaharja, Kecamatan Purwaharja, Kota Banjar, Prov. Jawa Barat
                             	</small>
                             </p>
                             <p>
@@ -52,7 +52,7 @@
             <div class="container" >
                 <div class="row">
                     <div class="col-lg-12">
-                        Copyright &copy; PAUD KOBER BANI RUQOYAH. 2024
+                        Copyright &copy; PAUD CIPTOWATI. 2024
                     </div>
                 </div>
             </div>

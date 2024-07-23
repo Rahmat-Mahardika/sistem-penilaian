@@ -9,7 +9,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Penilaian PAUD KOBER BANI RUQOYAH</title>
+    <title>Penilaian PAUD CIPTOWATI</title>
 
     <link rel="icon" href="<?php echo base_url(); ?>assets/img/favicon.png">
     <!-- Bootstrap Core CSS - Uses Bootswatch Flatly Theme: http://bootswatch.com/flatly/ -->
@@ -57,7 +57,7 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand" href="#page-top">PAUD KOBER BANI RUQOYAH</a>
+                <a class="navbar-brand" href="#page-top">PAUD CIPTOWATI</a>
             </div>
 
             <!-- Collect the nav links, forms, and other content for toggling -->
