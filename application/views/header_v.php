@@ -86,6 +86,9 @@
                     <li class="page-scroll">
                         <a href="#contact">Kontak</a>
                     </li>
+                    <li>
+                        <a href="/sistem-penilaian/administrator">Login</a>
+                    </li>
                     <?php
 					if($this->session->userdata('nama')){
 					?>
